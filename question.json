@@ -1,0 +1,112 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Alex saw a number 12345 on the scale. Where should the commas be placed in this number according to the International Place Value System?",
+    "options": [
+      "1,2345",
+      "123,45",
+      "12,345",
+      "1,23,45"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q2",
+    "question": "Mia looked at another label and saw the number 678901. Can you help them identify this number properly with commas?",
+    "options": [
+      "678,901",
+      "67,890,1",
+      "6789,01",
+      "6,789,01"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q3",
+    "question": "They noticed the number 1234567. How should commas be placed in the number 1234567?",
+    "options": [
+      "1,234,567",
+      "12,345,67",
+      "1234,567",
+      "1,23,456,7"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q4",
+    "question": "Sophie read the label and saw 9876543. How should commas be placed in this number?",
+    "options": [
+      "9,876,543",
+      "987,654,3",
+      "98,76,543",
+      "9,876,54,3"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q5",
+    "question": "Alex showed his friends a treat with 12345678 on it. 'How should we write this number with commas according to the International Place Value System?'",
+    "options": [
+      "12,345,678",
+      "123,456,78",
+      "1,234,567,8",
+      "1,23,45,678"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q6",
+    "question": "Mia glanced at a different treat with the number 4,752. 'What is the place value of the digit 7 in this number?'",
+    "options": [
+      "7",
+      "70",
+      "700",
+      "7,000"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q7",
+    "question": "Liam noticed the number 56,789 on a label. Can you tell me the place value of the digit 5 in this number?",
+    "options": [
+      "5",
+      "50",
+      "500",
+      "50,000"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q8",
+    "question": "Sophie looked at the label and saw 987,654. 'What is the place value of the digit 6 in this number?'",
+    "options": [
+      "6",
+      "60",
+      "600",
+      "6,000"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q9",
+    "question": "Alex found a treat with the number 1,234,567 on it. 'What is the place value of the digit 1 in this number?'",
+    "options": [
+      "1",
+      "10",
+      "100",
+      "1,000,000"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q10",
+    "question": "Liam noticed the number 8,765,432 on one of the labels. 'What's the place value of the digit 5?'",
+    "options": [
+      "5",
+      "50",
+      "500",
+      "5,000"
+    ],
+    "correct": 3
+  }
+]
